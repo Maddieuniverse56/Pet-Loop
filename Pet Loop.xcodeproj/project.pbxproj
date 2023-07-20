@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CEABD5762A6961E000E89794 /* SignInScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEABD5752A6961E000E89794 /* SignInScreenView.swift */; };
 		CEF03F7C2A6822DE0029A67E /* Pet_LoopApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF03F7B2A6822DE0029A67E /* Pet_LoopApp.swift */; };
 		CEF03F7E2A6822DE0029A67E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF03F7D2A6822DE0029A67E /* ContentView.swift */; };
 		CEF03F802A6822E10029A67E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEF03F7F2A6822E10029A67E /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CEABD5752A6961E000E89794 /* SignInScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInScreenView.swift; sourceTree = "<group>"; };
 		CEF03F782A6822DE0029A67E /* Pet Loop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pet Loop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF03F7B2A6822DE0029A67E /* Pet_LoopApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet_LoopApp.swift; sourceTree = "<group>"; };
 		CEF03F7D2A6822DE0029A67E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				CEF03F8A2A6838CF0029A67E /* Screens */,
 				CEF03F7B2A6822DE0029A67E /* Pet_LoopApp.swift */,
 				CEF03F7D2A6822DE0029A67E /* ContentView.swift */,
+				CEABD5752A6961E000E89794 /* SignInScreenView.swift */,
 				CEF03F7F2A6822E10029A67E /* Assets.xcassets */,
 				CEF03F812A6822E10029A67E /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEABD5762A6961E000E89794 /* SignInScreenView.swift in Sources */,
 				CEF03F8C2A6839140029A67E /* WelcomeScreenView.swift in Sources */,
 				CEF03F7E2A6822DE0029A67E /* ContentView.swift in Sources */,
 				CEF03F7C2A6822DE0029A67E /* Pet_LoopApp.swift in Sources */,
