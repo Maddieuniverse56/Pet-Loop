@@ -27,6 +27,7 @@ struct WelcomeScreenView: View {
                         Text ("Sign In")
                             .font(.title3)
                             .fontWeight(.bold)
+                            .foregroundColor(Color.black)
                             .padding()
                             .frame(maxWidth : .infinity)
                             .padding()
